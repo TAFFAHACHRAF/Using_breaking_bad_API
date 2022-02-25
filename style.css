@@ -1,11 +1,9 @@
 
-
 body{
     background-color:coral;
     color: beige;
     height: 110%;
 }
-
 #container #header h1{
     font-size:50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
